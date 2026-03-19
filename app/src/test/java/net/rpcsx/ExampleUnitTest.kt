@@ -1,4 +1,4 @@
-package net.rpcsx
+package net.aps3
 
 import org.junit.Test
 

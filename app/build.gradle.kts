@@ -7,12 +7,12 @@ plugins {
 }
 
 android {
-    namespace = "net.rpcsx"
+    namespace = "net.aps3.ui"
     compileSdk = 36
     ndkVersion = "29.0.13113456"
 
     defaultConfig {
-        applicationId = "net.rpcsx"
+        applicationId = "net.aps3.ui"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
